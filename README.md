@@ -46,7 +46,7 @@ Clone the repository or download the project files, then run:
 
 ```bash
 python simple_code_editor.py
-
+```
 
 ## License
 
