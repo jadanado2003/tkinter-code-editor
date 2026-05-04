@@ -46,3 +46,10 @@ Clone the repository or download the project files, then run:
 
 ```bash
 python simple_code_editor.py
+
+
+## License
+
+Copyright (c) 2026 Jad Nader. All rights reserved.
+
+This project is publicly available for portfolio and review purposes only. No permission is granted to copy, modify, distribute, or reuse this code without written permission.
